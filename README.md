@@ -58,10 +58,3 @@ These scripts demonstrate:
 4. Use files in `data/` with scripts in `scripts/`.
 
 ---
-
-## Learning Objective
-
-The goal of this workshop is to help participants:
-- understand the basic 16S analysis workflow,
-- gain confidence in handling biological data computationally,
-- and interpret common microbiome visualizations.

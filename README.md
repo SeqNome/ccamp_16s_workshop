@@ -1,3 +1,8 @@
+## 🌐 View Online
+https://seqnome.github.io/ccamp_16s_workshop/slides.html
+
+
+
 # 16S Metagenomics Workshop Materials
 
 This repository contains the core materials used in the **16S Metagenomics Workshop**.
@@ -15,7 +20,7 @@ The contents are organized to help participants:
 
 This is the **final workshop presentation**.
 
-- Open this file in any modern web browser (Chrome / Firefox / Edge).
+- Open this file in any browser (Chrome / Firefox / Edge).
 - Contains all conceptual material, figures, and explanations.
 
 ---
@@ -58,5 +63,4 @@ These scripts demonstrate:
 4. Use files in `data/` with scripts in `scripts/`.
 
 ---
-## 🌐 View Online
-https://seqnome.github.io/ccamp_16s_workshop/slides.html
+

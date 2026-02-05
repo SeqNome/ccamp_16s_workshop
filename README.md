@@ -58,3 +58,5 @@ These scripts demonstrate:
 4. Use files in `data/` with scripts in `scripts/`.
 
 ---
+## 🌐 View Online
+https://seqnome.github.io/ccamp_16s_workshop/slides.html

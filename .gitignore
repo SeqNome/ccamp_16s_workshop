@@ -1,0 +1,88 @@
+# ===========================================
+# Bioinformatics Workshop .gitignore
+# ===========================================
+
+# 1. SEQUENCING DATA (VERY LARGE!)
+*.fq
+*.fastq
+*.fq.gz
+*.fastq.gz
+*.fq.bz2
+*.fastq.bz2
+
+# 2. ALIGNMENT/MAPPING FILES
+*.bam
+*.sam
+*.cram
+*.bai
+*.crai
+*.bai
+
+# 3. GENOMIC DATA FORMATS
+*.vcf
+*.vcf.gz
+*.bcf
+*.bed
+*.bed.gz
+*.bed.bz2
+*.gff
+*.gff.gz
+*.gtf
+*.gtf.gz
+
+# 4. COMPRESSED ARCHIVES
+*.tar.gz
+*.tar.bz2
+*.zip
+*.7z
+*.rar
+
+# 5. R DATA FILES
+*.RData
+*.rda
+*.rds
+*.rdx
+
+# 6. LARGE DATA DIRECTORIES
+data/dada2_amplicon/
+data/run_folder/
+raw_data/
+sequencing_data/
+alignments/
+
+# 7. SYSTEM/TEMPORARY FILES
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+\#*\#
+.\#*
+
+# 8. PYTHON
+__pycache__/
+*.py[cod]
+*.so
+*.pyd
+
+# 9. OUTPUT/LOG FILES
+*.log
+*.out
+slurm-*.out
+*.err
+*.tmp
+*.temp
+
+# 10. NOTE: Keep these small workshop files
+!.gitignore
+!README.md
+!*.R
+!*.r
+!*.py
+!*.sh
+!*.md
+!*.qmd
+!*.html
+!*.css
+!*.js
+# ===========================================

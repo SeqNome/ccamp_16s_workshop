@@ -34,7 +34,7 @@ samples <- gsub("_R1_trim\\.fq\\.gz$", "", r1_files)
 writeLines(samples, "samples")
 
 # Verify
-cat("Created samples file with", length(samples), "samples:\n")
+#cat("Created samples file with", length(samples), "samples:\n")
 print(samples)
 
 
